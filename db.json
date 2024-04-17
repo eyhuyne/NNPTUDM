@@ -1,0 +1,74 @@
+{
+  "user": [
+    {
+      "id": 1,
+      "username": "thanhtuan",
+      "password": "123456"
+    },
+    {
+      "id": 2,
+      "username": "ngocthanh",
+      "password": "123456"
+    },
+    {
+      "username": "tuan",
+      "password": "123",
+      "mail": "thanhtuan123@gmail.com",
+      "id": 3
+    },
+    {
+      "username": "tuan",
+      "password": "123",
+      "mail": "thanhtuan123@gmail.com",
+      "id": 4
+    },
+    {
+      "username": "tuan",
+      "password": "123",
+      "mail": "thanhtuan123@gmail.com",
+      "id": 5
+    },
+    {
+      "username": "tuan",
+      "password": "123",
+      "mail": "thanhtuan123@gmail.com",
+      "id": 6
+    },
+    {
+      "username": "test1",
+      "password": "test123456",
+      "mail": "test1@gmail.com",
+      "id": 7
+    },
+    {
+      "username": "test2",
+      "password": "test2",
+      "mail": "test2@gmail.com",
+      "id": 8
+    },
+    {
+      "username": "thanh789",
+      "password": "123",
+      "mail": "thanh789@gmail.com",
+      "id": 9
+    },
+    {
+      "username": "Alice",
+      "password": "123",
+      "mail": "huythanh2910@gmail.com",
+      "id": 10
+    },
+    {
+      "username": "thanh123",
+      "password": "123",
+      "mail": "thanh123@gmail.com",
+      "id": 11
+    },
+    {
+      "username": "thanh789",
+      "password": "123",
+      "mail": "",
+      "id": 12
+    }
+  ]
+}
